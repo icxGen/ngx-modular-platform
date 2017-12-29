@@ -84,5 +84,9 @@
     "less-loader": "^2.2.3",
     "node-sass": "^4.5.1",
     "sass-loader": "^6.0.3"
+  },
+  "engines": {
+    "node": "～ 7.6",
+    "npm": "～ 3"
   }
 }
